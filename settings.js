@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 //---------⚠️ 𝗪𝗮𝗿𝗻𝗶𝗻𝗴 ⚠️-----------\\
-global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
+global.simpleBotname = "heart touching music bot" //⚠️ Only use normal and one work name here or you'll get errors ⚠️//
 
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
@@ -16,17 +16,17 @@ actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of 
 global.headerText = "Anya by Pika" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['918811074852']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
-             global.ownername = "3.69_Pika"   // Owner name //
-             global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
+             global.ownernumber = ['94786917462']   // Owner number //
+             global.vcardowner = ['94786917462']   // vcard owner number //
+             global.ownername = "professor"   // Owner name //
+             global.ytname = "unknown"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '918811074852'  // Tag number //
+             global.owner = ['94786917462']
+             global.ownertag = '94786917462'  // Tag number //
              global.linkz = "https://wa.me/+918811074852"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['918811074852']  // premium numbers //             
-             global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark //
+             global.premium = ['94786917462']  // premium numbers //                  
+             global.waterMark = "heart touching music" // Your own watermark //
 
 global.prefa = ['','-']
 
